@@ -7,7 +7,7 @@ class Artist
   
   extend Memorable
   extend Findable
-  include Artist::Paramable
+  include Paramable
   
   @@artists = []
 
