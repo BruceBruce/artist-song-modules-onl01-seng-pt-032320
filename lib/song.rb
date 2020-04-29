@@ -14,7 +14,7 @@ class Song
     @@songs << self
   end
 
-  #def self.find_by_name(name)
+  #def self.mfind_by_name(nae)
     #@@songs.detect{|a| a.name == name}
   #end
 
